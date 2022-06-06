@@ -1,4 +1,4 @@
-Backend with OO languages. Most interested in C++/Java/Python.
+Backend and OO languages. Most interested in Python and Java. Continuously learning :)
 
 
 
