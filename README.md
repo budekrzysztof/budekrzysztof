@@ -2,7 +2,8 @@ Backend and OO languages. Most interested in C++/Python and recently Java as wel
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stiwenparker&rank=S,A,B,C,D)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stiwenparker&theme=onedark&rank=S,A,B,C,D,E,F)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <br>
