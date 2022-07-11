@@ -9,7 +9,7 @@ Backend and OO languages. Having most fun with Java, C++ and occasionaly Python.
 <br>
 
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in backend development
+- 👀 I’m interested in backend development and security
 - 🌱 Learning Java and Spring
 
 
