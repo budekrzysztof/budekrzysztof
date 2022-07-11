@@ -2,7 +2,7 @@ Backend and OO languages. Having most fun with Java, C++ and occasionaly Python.
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stiwenparker&theme=onedark&rank=S,A,B,C,D,E,F)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=budekrzysztof&theme=onedark&rank=S,A,B,C,D,E,F)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
