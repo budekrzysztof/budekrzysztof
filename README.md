@@ -1,4 +1,4 @@
-Backend and OO languages. Having most fun with Java, C++ and occasionaly Python. Continuously learning :)
+Backend and OO languages. Continuously learning :)
 
 
 
