@@ -1,4 +1,4 @@
-Backend and OO languages. Continuously learning :)
+Interested in backend. Continuously learning :)
 
 
 
